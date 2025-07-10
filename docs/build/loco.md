@@ -623,7 +623,7 @@ Fortunately, we can use the Assist Menu for this. <kbd>C-,</kbd> and <kbd>M-.</k
 
 ## Author and copyright
 
-Loco was written and copyright in 2024 by Chris McLaren ([@csmclaren](https://www.github.com/csmclaren)).
+Loco was written and copyrighted in 2024 by Chris McLaren ([@csmclaren](https://www.github.com/csmclaren)).
 
 ## License
 
@@ -635,4 +635,4 @@ Loco is licensed under the [GNU](https://www.gnu.org) General Public License v3.
 
 The logo for Loco is a representation of a [tram](https://en.wikipedia.org/wiki/Tram) car from the [Unicode](https://home.unicode.org) chart [Transport and Map Symbols](https://unicode.org/charts/PDF/U1F680.pdf). Loco was created in Lisbon, Portugal, a city with a [history](https://en.wikipedia.org/wiki/Trams_in_Lisbon) of using tram cars such as these.
 
-This document was produced on July 18, 2024.
+This document was produced on July 10, 2025.

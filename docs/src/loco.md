@@ -595,7 +595,7 @@ Fortunately, we can use the Assist Menu for this. <kbd>C-,</kbd> and <kbd>M-.</k
 
 ## Author and copyright
 
-Loco was written and copyright in 2024 by Chris McLaren ([@csmclaren](https://www.github.com/csmclaren)).
+Loco was written and copyrighted in 2024 by Chris McLaren ([@csmclaren](https://www.github.com/csmclaren)).
 
 ## License
 
